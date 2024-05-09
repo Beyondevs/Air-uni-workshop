@@ -6,6 +6,7 @@ This API provides endpoints to perform CRUD operations on blog posts.
 
 #Installation
 Before running the application, make sure you have the following dependencies installed:
+
 npm install express mongoose nodemon
 
 #Routes
