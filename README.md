@@ -1,15 +1,19 @@
 # Air-uni-workshop
 This repository hosts a workshop conducted at Air University focusing on the MERN Stack.
 
-#Blog API Routes
+# Blog API Routes
 This API provides endpoints to perform CRUD operations on blog posts.
 
-#Installation
+# Installation
 Before running the application, make sure you have the following dependencies installed:
 
 npm install express mongoose nodemon
 
-#Routes
+# Server Start commands:
+
+npm run start
+
+# Routes
 Create Blog
 Endpoint: POST /api/blog/create
 
